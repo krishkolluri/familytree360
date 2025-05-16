@@ -1,5 +1,6 @@
 
 
+![License](https://img.shields.io/badge/license-Restricted--View--Only-red)
 
 # 🌳 FamilyTree360
 
